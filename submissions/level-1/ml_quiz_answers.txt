@@ -1,0 +1,19 @@
+1. What is supervised learning? Provide an example.
+
+Ans: Supervised learning is a class of problems that have a Training Dataset in the form of input-output pairs which provides
+the best output for a sample input. The goal then is to produce a output when a input is given without its corresponding output.
+For example: Classification of Dog and Cats problem can be solved with supervised learning as the Training Dataset is givn such that
+all samples have known answers whether the image given has a cat or a dog or both.
+
+2. Explain the difference between supervised and unsupervised learning.
+
+Ans: Supervised learning is the method of learning that is tranined using Dataset with input-output pairs while unsipervised learning does not have pairs,
+but rather is given a set of objects and is required to find some inherent pattern or structure to produce a output for a new input. Supervised learning has
+data that "guides" the model to the right solution while Unsupervised is required to "build its own path" to solve the problem with the set of inputs from an IID.
+
+3. How is reinforcement learning different from supervised learning?
+
+Ans: Reinforcement learning is different from both Unsupervised and Supervised learning as does not have a defined training dataset given to it but rather the
+problem is framed in a way of an agent interacting with the surroundings. Reinforcement learning, as the name suggests, is a type where the agent is required to
+respond to some situation and is then given reward according to the situation or state and also possibl its response, which reinforces its learning as the feedback
+is accounted for in the next action selection.

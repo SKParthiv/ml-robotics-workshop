@@ -1,0 +1,10 @@
+1) What are the key components of a robot?
+
+Ans: A robot, in genral, has components to sense the surroundings, and itself, components to process the data from the sensors and produce a output that may be an action to perform,
+ and set of actuators connected in a very designed and specific way catered for a task that actualize the action in the real world. Key components of a robot also includes
+ a control mechanism that can be remotly human operated or a autonomous system, and a feedback data organisation such that proper output can be processed.
+
+List three applications of robotics in the real world.
+
+Ans: Robotics is a field that exists to be applied in the real world nd solve real problems. 
+Three such applications are: 1) Manufacturing automation 2) Unknonw terrain exploration 3) Inventory control and monitoring
